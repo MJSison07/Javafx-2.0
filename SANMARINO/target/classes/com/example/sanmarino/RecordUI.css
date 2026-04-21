@@ -1,0 +1,30 @@
+
+
+#centerAnchor{
+    -fx-background-image: url("Brgy.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
+
+#FormGrid, #tableview{
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+}
+#addButton{
+    -fx-background-color: #1596ff;
+}
+
+#addButton:hover{
+    -fx-background-color: #4da9ff;
+}
+
+
+
+#deleteButton{
+    -fx-background-color: #f90101;
+}
+#deleteButton:hover{
+    -fx-background-color: #dd3f3f;
+}

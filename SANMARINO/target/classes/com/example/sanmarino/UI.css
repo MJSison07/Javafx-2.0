@@ -1,0 +1,16 @@
+#topGridPane{
+    -fx-background-color: White  ;
+    -fx-border-radius: 5px;
+}
+
+
+#centerAnchor{
+    -fx-background-image: url("Brgy.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-attachment: fixed;
+    -fx-background-position: center;
+    -fx-background-size: cover;
+}
+
+
+
